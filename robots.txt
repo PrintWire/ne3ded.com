@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ne3ded.com/sitemap.xml
